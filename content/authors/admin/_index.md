@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Yixuan Zhang is a MA of Mathematics at the UW-Madison. He is Bernard.Dong's father
+Yixuan Zhang is a MA of Mathematics at the UW-Madison. He is Bernard.Dong's father.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
