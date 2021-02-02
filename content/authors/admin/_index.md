@@ -70,6 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-Yixuan Zhang is a MA of Mathematics at the UW-Madison. He is Bernard.Dong's father.
+I am a fisrt-year MA student of Mathematics at the UW-Madison, advised by Hao Shen.
+
+I am interested in transfer learning and interpretability of neural networks, with special focus on natural language processing. Before coming to UW-Madison, I worked with Prof. Liu on optimization for Machine Learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
